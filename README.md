@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @santiprates
+- 👀 I’m interested in learn new technologies and create quality software.
+- 🌱 I’m currently learning Flutter.
+- 💞️ I’m looking to collaborate on scalable projects.
+- 📫 How to reach me sprates@aplixer.com}
