@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @santiprates, I've been developer since 2012 and aplixer.com CEO & founder from 2014.
+- 👋 Hi, I’m @santiprates, I've been developer since 2012.
 - 👀 I’m interested in learn new technologies and create quality software.
 - 💞️ I’m looking to collaborate on scalable projects.
-- 📫 How to reach me sprates@aplixer.com
+- 📫 How to reach me aplixer@gmail.com
